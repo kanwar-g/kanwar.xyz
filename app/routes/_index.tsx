@@ -75,14 +75,15 @@ export default function Index() {
                   </p>
                   <div className="mt-3">
                     <p className="text-sm/6 text-gray-600">
-                      <span className="font-medium">My role: </span>Researcher,
-                      Product Designer, Usability tester,{" "}
+                      <span className="font-semibold">My role: </span>
+                      Researcher, product designer, and front-end engineer.
                     </p>
                   </div>
                   <div className="mt-3">
                     <p className="text-sm/6 text-gray-600">
-                      <span className="font-medium">Tech stack: </span>
-                      Researcher, Product Designer, Usability tester,{" "}
+                      <span className="font-semibold">Tech stack: </span>
+                      ReactJS, React Native, RoR, PostgreSQL, OneSignal, Twilio,
+                      Stripe, Sentry
                     </p>
                   </div>
                   <div className="pb-8 mt-4">
@@ -114,15 +115,15 @@ export default function Index() {
                   </p>
                   <div className="mt-3">
                     <p className="text-sm/6 text-gray-600">
-                      <span className="font-medium">My role: </span>Research,
-                      design, test, and full-stack engineer.
+                      <span className="font-semibold">My role: </span>
+                      Researcher, product designer, and full-stack engineer.
                     </p>
                   </div>
                   <div className="mt-3">
                     <p className="text-sm/6 text-gray-600">
-                      <span className="font-medium">Tech stack: </span>
-                      NextJS, React Native, Sass, NodeJS, PostgreSQL, Pinecone,
-                      OpenAI
+                      <span className="font-semibold">Tech stack: </span>
+                      NextJS, React Native, NodeJS, PostgreSQL, Pinecone,
+                      Twilio, WebSockets API, OpenAI
                     </p>
                   </div>
                   <div className="my-3 flex">
