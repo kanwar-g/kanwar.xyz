@@ -90,7 +90,7 @@ export default function Index() {
                     <Link
                       to="https://automatebnb.com"
                       target="_blank"
-                      className="rounded-full px-4 py-2.5 text-sm font-semibold border shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                      className="rounded-full px-4 py-2.5 text-sm font-semibold border shadow-xs hover:bg-slate-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                     >
                       View project
                     </Link>
@@ -130,7 +130,7 @@ export default function Index() {
                     <Link
                       to="https://gleamly.ai"
                       target="_blank"
-                      className="rounded-full px-4 py-2.5 text-sm font-semibold border shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                      className="rounded-full px-4 py-2.5 text-sm font-semibold border shadow-xs hover:bg-slate-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                     >
                       View project
                     </Link>
